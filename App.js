@@ -1,4 +1,4 @@
-const inputs = document.querySelectorAll(".otp-input");
+const inputs = document.querySelectorAll(".otp");
 const validInputValues = [
   "0",
   "1",
